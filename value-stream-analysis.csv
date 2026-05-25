@@ -1,0 +1,11 @@
+Process Step,Value Added,Min Hours,Max Hours,Avg Hours (current state),Target Hours (future state),Improvement Opportunity,Priority
+Application Submission,Yes,0.5,1.5,1.0,0.4,Streamline,Low
+Document Collection,Yes,4,48,26.3,3.2,Streamline,Low
+Initial Review,Yes,2,8,5.0,1.6,Streamline,Low
+Credit Bureau Pull,Yes,0.5,2,1.2,0.4,Streamline,Low
+Waiting for Analyst,No,8,72,37.4,2.4,Eliminate or Automate,High
+Underwriting Review,Yes,4,16,9.7,3.2,Streamline,Low
+Manager Sign-off Queue,No,4,48,26.0,1.2,Eliminate or Automate,High
+Manager Approval,Yes,1,4,2.5,0.8,Streamline,Low
+Compliance Check,Yes,2,8,5.1,1.6,Streamline,Low
+Decision Communication,Yes,1,3,2.0,0.8,Streamline,Low

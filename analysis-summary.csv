@@ -1,0 +1,12 @@
+Metric,Value,Notes
+Total applications analysed,300,January 2024 to December 2024
+Average completion time,18.7 business days,Target is 5 business days
+On-time completion rate (5 day target),0.0%,Below target of 85%
+Average value-added time,42.8%,Only this portion moves the application forward
+Average non-value-added time,57.2%,"Waiting, queuing, rework — target for elimination"
+Avg NVA hours per application,88.6 hours,Time that could be eliminated or automated
+Top delay driver,Analyst queue backlog,Waiting for Analyst averages longest NVA time
+Self-employed vs salaried processing time,2.2x longer,Document collection is the primary gap
+Estimated annual revenue gain from improvement,"$94,667.0",Based on improved approval rate and volume
+Implementation cost estimate,"$280,000",Technology and process redesign combined
+Estimated payback period,35.5 months,Based on revenue gain calculation

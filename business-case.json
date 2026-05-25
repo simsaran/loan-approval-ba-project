@@ -1,0 +1,15 @@
+{
+  "current_avg_days": 18.7,
+  "target_avg_days": 5,
+  "on_time_rate_current": 0.0,
+  "on_time_rate_target": 85,
+  "avg_loan_amount": 45766.0,
+  "approval_rate_current": 70.0,
+  "monthly_applications": 25.0,
+  "estimated_annual_revenue_gain": 94667.0,
+  "implementation_cost_estimate": 280000,
+  "payback_period_months": 35.5,
+  "nva_hours_per_application": 88.6,
+  "va_pct_current": 42.8,
+  "va_pct_target": 75
+}

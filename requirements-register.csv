@@ -1,0 +1,16 @@
+ID,Description,Stakeholder,Priority,Acceptance Criterion,Status,Category
+REQ-001,Application portal must allow document upload at submission,Applicant,Must Have,Documents uploaded at submission reduce collection time by at least 60%,Not implemented,Process
+REQ-002,Credit bureau pull must be automated on submission not manual,Operations Team,Must Have,Credit report available within 30 minutes of submission automatically,Partially implemented,Technology
+REQ-003,Analyst assignment must happen within 2 business hours of initial review completion,Operations Team,Must Have,Queue wait time below 2 hours for 95% of applications,Not implemented,Process
+REQ-004,Manager sign-off queue must have a maximum 4-hour SLA,Branch Management,Must Have,Manager review initiated within 4 hours for all applications,Not implemented,Process
+REQ-005,Applicant must receive automated status updates at each process stage,Applicant,Should Have,Automated notification sent within 1 hour of each stage completion,Not implemented,Technology
+REQ-006,Self-employed applicants must receive a document checklist at submission,Applicant,Must Have,Checklist reduces incomplete document rate by 40% within 90 days,Not implemented,Process
+REQ-007,System must flag applications exceeding 3 business days for escalation,Operations Manager,Must Have,100% of delayed applications flagged and escalated within 30 minutes of breach,Not implemented,Technology
+REQ-008,Compliance check must run in parallel with manager approval not sequentially,Compliance Team,Should Have,Parallel processing reduces total process time by estimated 1.5 business days,Not implemented,Process
+REQ-009,Underwriting decision must be documented in the system before manager review,Manager,Must Have,100% of applications have underwriting notes before entering manager queue,Partially implemented,Process
+REQ-010,Dashboard showing real-time application pipeline by stage available to branch managers,Branch Management,Could Have,Dashboard updated every 15 minutes showing applications by stage and aging,Not implemented,Technology
+REQ-011,Automated income verification for salaried employees via payroll integration,Operations Team,Should Have,Payroll integration reduces document collection time by 50% for salaried applicants,Not implemented,Technology
+REQ-012,Mobile-friendly application portal for document submission,Applicant,Should Have,Mobile submission rate above 40% within 6 months of launch,Not implemented,Technology
+REQ-013,Standard decision letter templates for all three outcomes,Operations Team,Must Have,Communication step reduced to under 30 minutes for all decisions,Implemented,Process
+REQ-014,Analyst workload balancing — maximum 15 active applications per analyst,Operations Manager,Must Have,No analyst carries more than 15 active files at any time,Not implemented,Process
+REQ-015,Post-decision feedback survey sent to all applicants within 24 hours,Customer Experience,Could Have,Response rate above 20% within 3 months,Not implemented,Customer Experience
